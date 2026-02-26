@@ -28,7 +28,7 @@ GIAI ĐOẠN 10: DEVOPS & AUTOMATION
 
 ---
 
-##### 🏁 GIAI ĐOẠN 1: NỀN TẢNG BẮT BUỘC (PREREQUISITES)
+#### 🏁 GIAI ĐOẠN 1: NỀN TẢNG BẮT BUỘC (PREREQUISITES)
 
 Trước khi bước vào thế giới Angular, đây là những hành trang không thể thiếu:
 
@@ -170,7 +170,7 @@ Giao tiếp với Server, bảo mật và đa ngôn ngữ:
 
 - Cấu hình đa ngôn ngữ với `ngx-translate` hoặc Angular i18n native.
 
----
+
 
 ##### ⚡ GIAI ĐOẠN 7: HIỆU NĂNG NÂNG CAO (PERFORMANCE)
 

@@ -1,4 +1,4 @@
-# 🏁 GIAI ĐOẠN 1: NỀN TẢNG BẮT BUỘC (PREREQUISITES)
+# 🏁 Part 1: NỀN TẢNG BẮT BUỘC (PREREQUISITES)
 
 ## Nền Tảng 1: TypeScript Cốt Lõi (Modern TypeScript)
 
