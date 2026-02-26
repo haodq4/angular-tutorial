@@ -1,7 +1,7 @@
 # 🏁 GIAI ĐOẠN 1: NỀN TẢNG BẮT BUỘC (PREREQUISITES)
 
 ## Nền Tảng 1: TypeScript Cốt Lõi (Modern TypeScript)
----
+
 Angular được xây dựng hoàn toàn bằng TypeScript. Việc nắm vững TypeScript không chỉ giúp code ít lỗi hơn mà còn giúp bạn tận dụng được các tính năng "nhắc code" (IntelliSense) cực mạnh của các IDE. Dưới đây là những khái niệm sống còn.
 
 ### 1. Interface VS Type
